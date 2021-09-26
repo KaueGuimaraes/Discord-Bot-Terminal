@@ -23,7 +23,7 @@ def connect_bot(token):
     
 
 #token = str(input('Bot Token: '))
-token = 'ODgyOTg5NDc4NDY4Mjc2MjI1.YTDaCA.L_wuxDPfajXHiyTnhIYTxFgs5XA'
+token = 'token'
 
 try:
     print('entrar')

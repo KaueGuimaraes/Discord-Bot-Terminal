@@ -39,4 +39,4 @@ async def send_message():
         print('user')
 
 
-bot.run('ODgyOTg5NDc4NDY4Mjc2MjI1.YTDaCA.L_wuxDPfajXHiyTnhIYTxFgs5XA')
+bot.run('token')
